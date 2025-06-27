@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CWeaponInfoBlob>
+  <SlotNavigateOrder>
+    <Item>
+      <WeaponSlots />
+    </Item>
+    <Item>
+      <WeaponSlots />
+    </Item>
+  </SlotNavigateOrder>
+  <SlotBestOrder>
+    <WeaponSlots />
+  </SlotBestOrder>
+  <TintSpecValues />
+  <FiringPatternAliases />
+  <UpperBodyFixupExpressionData />
+  <AimingInfos />
+  <Infos>
+    <Item>
+      <Infos />
+    </Item>
+    <Item>
+      <Infos />
+    </Item>
+    <Item>
+      <Infos>
+        
+      </Infos>
+    </Item>
+    <Item>
+      <Infos />
+    </Item>
+  </Infos>
+  <VehicleWeaponInfos />
+  <WeaponGroupDamageForArmouredVehicleGlass />
+  <Name>DLC - Vehicle - Ruiner2</Name>
+</CWeaponInfoBlob>
